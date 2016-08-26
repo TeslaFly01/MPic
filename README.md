@@ -6,4 +6,5 @@
 
 >2、同样存储空间也改为自己七牛存储空间的名字
 
+源码：https://git.oschina.net/izhaofu/MPic.git
 
