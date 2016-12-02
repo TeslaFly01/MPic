@@ -1,5 +1,5 @@
 # MPic
-####官网：#### http://mpic.lzhaofu.cn
+####官网： http://mpic.lzhaofu.cn
 
 ###简介###
 >在Windows系统下，利用七牛云存储作为图床，上传图片到七牛云生成MarkDown格式图片链接的图床神器
